@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @danuss
+- 👀 I’m interested in science, gaming and sports.
+- 🌱 I’m currently learning Python. Learned MATLAB in my university.
